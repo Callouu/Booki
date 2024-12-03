@@ -1,2 +1,2 @@
 # Booki -----
-Projet HTML / CSS 
+Responsive HTML / CSS Project
